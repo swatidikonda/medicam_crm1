@@ -149,7 +149,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2014-2018 <a href="http://adminlte.io">AdminLTE.io</a>.</strong>
+    <strong>Copyright &copy; 2014-2018 <a href="http://adminlte.io">darstek.com</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 3.0.0-alpha
@@ -201,8 +201,7 @@
 <script src="{{asset('admin-lte/dist/js/pages/dashboard.js')}}"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="{{asset('admin-lte/dist/js/demo.js')}}"></script>
-<!-- CK Editor -->
-<script src="{{asset('admin-lte/plugins/ckeditor/ckeditor.js')}}"></script>
+
 @yield('javascript')
 </body>
 </html>

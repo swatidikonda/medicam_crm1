@@ -74,8 +74,15 @@
 
                 </form>
               </div>
+              <div class="form-group row">
+                <div class="col-5" ></div>
+                <div class="col-6">
+                <input type="submit" name="save" class="btn btn-success" />
+            </div>
+            </div>
               <!-- /.card-body -->
             </div>
+            
 
 @endsection
 
